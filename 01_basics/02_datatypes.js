@@ -21,4 +21,5 @@ console.log("Ajit")
 // object 
 
 
-console.log(typeof null);
+console.log(typeof null); // undefined
+console.log(typeof undefined) // object
